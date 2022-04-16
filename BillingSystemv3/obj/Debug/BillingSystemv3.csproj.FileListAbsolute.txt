@@ -1,0 +1,38 @@
+C:\Users\Jolima\documents\visual studio 2013\Projects\BillingSystemv3\BillingSystemv3\bin\Debug\BillingSystemv3.exe.config
+C:\Users\Jolima\documents\visual studio 2013\Projects\BillingSystemv3\BillingSystemv3\bin\Debug\BillingSystemv3.exe.manifest
+C:\Users\Jolima\documents\visual studio 2013\Projects\BillingSystemv3\BillingSystemv3\bin\Debug\BillingSystemv3.application
+C:\Users\Jolima\documents\visual studio 2013\Projects\BillingSystemv3\BillingSystemv3\bin\Debug\BillingSystemv3.exe
+C:\Users\Jolima\documents\visual studio 2013\Projects\BillingSystemv3\BillingSystemv3\bin\Debug\BillingSystemv3.pdb
+C:\Users\Jolima\documents\visual studio 2013\Projects\BillingSystemv3\BillingSystemv3\obj\Debug\BillingSystemv3.Billing.resources
+C:\Users\Jolima\documents\visual studio 2013\Projects\BillingSystemv3\BillingSystemv3\obj\Debug\BillingSystemv3.Customer_Add.resources
+C:\Users\Jolima\documents\visual studio 2013\Projects\BillingSystemv3\BillingSystemv3\obj\Debug\BillingSystemv3.Form1.resources
+C:\Users\Jolima\documents\visual studio 2013\Projects\BillingSystemv3\BillingSystemv3\obj\Debug\BillingSystemv3.Invoice.resources
+C:\Users\Jolima\documents\visual studio 2013\Projects\BillingSystemv3\BillingSystemv3\obj\Debug\BillingSystemv3.main.resources
+C:\Users\Jolima\documents\visual studio 2013\Projects\BillingSystemv3\BillingSystemv3\obj\Debug\BillingSystemv3.Product.resources
+C:\Users\Jolima\documents\visual studio 2013\Projects\BillingSystemv3\BillingSystemv3\obj\Debug\BillingSystemv3.Properties.Resources.resources
+C:\Users\Jolima\documents\visual studio 2013\Projects\BillingSystemv3\BillingSystemv3\obj\Debug\BillingSystemv3.user.resources
+C:\Users\Jolima\documents\visual studio 2013\Projects\BillingSystemv3\BillingSystemv3\obj\Debug\BillingSystemv3.csproj.GenerateResource.Cache
+C:\Users\Jolima\documents\visual studio 2013\Projects\BillingSystemv3\BillingSystemv3\obj\Debug\BillingSystemv3.exe.manifest
+C:\Users\Jolima\documents\visual studio 2013\Projects\BillingSystemv3\BillingSystemv3\obj\Debug\BillingSystemv3.application
+C:\Users\Jolima\documents\visual studio 2013\Projects\BillingSystemv3\BillingSystemv3\obj\Debug\BillingSystemv3.exe
+C:\Users\Jolima\documents\visual studio 2013\Projects\BillingSystemv3\BillingSystemv3\obj\Debug\BillingSystemv3.pdb
+C:\Users\Jolima\documents\visual studio 2013\Projects\BillingSystemv3\BillingSystemv3\obj\Debug\BillingSystemv3.csprojResolveAssemblyReference.cache
+D:\WorkWork\Billing System For Mariel Machineries INc\BillingSystemv3\BillingSystemv3\bin\Debug\BillingSystemv3.exe.config
+D:\WorkWork\Billing System For Mariel Machineries INc\BillingSystemv3\BillingSystemv3\obj\Debug\BillingSystemv3.exe
+D:\WorkWork\Billing System For Mariel Machineries INc\BillingSystemv3\BillingSystemv3\obj\Debug\BillingSystemv3.pdb
+D:\WorkWork\Billing System For Mariel Machineries INc\BillingSystemv3\BillingSystemv3\bin\Debug\BillingSystemv3.exe.manifest
+D:\WorkWork\Billing System For Mariel Machineries INc\BillingSystemv3\BillingSystemv3\bin\Debug\BillingSystemv3.application
+D:\WorkWork\Billing System For Mariel Machineries INc\BillingSystemv3\BillingSystemv3\bin\Debug\BillingSystemv3.exe
+D:\WorkWork\Billing System For Mariel Machineries INc\BillingSystemv3\BillingSystemv3\bin\Debug\BillingSystemv3.pdb
+D:\WorkWork\Billing System For Mariel Machineries INc\BillingSystemv3\BillingSystemv3\obj\Debug\BillingSystemv3.Billing.resources
+D:\WorkWork\Billing System For Mariel Machineries INc\BillingSystemv3\BillingSystemv3\obj\Debug\BillingSystemv3.Customer_Add.resources
+D:\WorkWork\Billing System For Mariel Machineries INc\BillingSystemv3\BillingSystemv3\obj\Debug\BillingSystemv3.Form1.resources
+D:\WorkWork\Billing System For Mariel Machineries INc\BillingSystemv3\BillingSystemv3\obj\Debug\BillingSystemv3.Invoice.resources
+D:\WorkWork\Billing System For Mariel Machineries INc\BillingSystemv3\BillingSystemv3\obj\Debug\BillingSystemv3.main.resources
+D:\WorkWork\Billing System For Mariel Machineries INc\BillingSystemv3\BillingSystemv3\obj\Debug\BillingSystemv3.Product.resources
+D:\WorkWork\Billing System For Mariel Machineries INc\BillingSystemv3\BillingSystemv3\obj\Debug\BillingSystemv3.Properties.Resources.resources
+D:\WorkWork\Billing System For Mariel Machineries INc\BillingSystemv3\BillingSystemv3\obj\Debug\BillingSystemv3.user.resources
+D:\WorkWork\Billing System For Mariel Machineries INc\BillingSystemv3\BillingSystemv3\obj\Debug\BillingSystemv3.csproj.GenerateResource.Cache
+D:\WorkWork\Billing System For Mariel Machineries INc\BillingSystemv3\BillingSystemv3\obj\Debug\BillingSystemv3.exe.manifest
+D:\WorkWork\Billing System For Mariel Machineries INc\BillingSystemv3\BillingSystemv3\obj\Debug\BillingSystemv3.application
+D:\WorkWork\Billing System For Mariel Machineries INc\BillingSystemv3\BillingSystemv3\obj\Debug\BillingSystemv3.csprojResolveAssemblyReference.cache
